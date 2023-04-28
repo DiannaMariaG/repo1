@@ -28,3 +28,7 @@ r1 = Rectangle(l,L)
 r1.describe()
 print(f'Aria dreptunghiului este {r1.get_area()} iar perimetrul este {r1.get_perimeter()}')
 print()
+
+r2 = Rectangle(12,4)
+r2.describe()
+print(f'Aria dreptunghiului este {r2.get_area()} iar perimetrul este {r2.get_perimeter()}')
